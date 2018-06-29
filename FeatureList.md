@@ -1,5 +1,5 @@
 Index Finger Features
-1.DIP Joint Angle 10%
+1. DIP Joint Angle 10%
 2.DIP Joint Angle 90%
 3.DIP Joint Angle Median
 4.DIP Joint Angle Average
